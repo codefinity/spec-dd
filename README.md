@@ -1,4 +1,4 @@
-# 📋 Spec-Driven Development Learning Hub
+# 📋 Spec-Driven Development (SDD) Learning Hub
 
 ![Spec-Driven Development](assets/header-image.png)
 
